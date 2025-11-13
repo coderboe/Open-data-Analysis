@@ -1,5 +1,4 @@
-# -
-A data analytics project using the data set which AI Job Market Trends This dataset provides a unique look into the AI/ML/Data Science job market trend.
+# A data analytics project using the data set which AI Job Market Trends This dataset provides a unique look into the AI/ML/Data Science job market trend.
 
 ## About Dataset
 The AI/ML industry is rapidly evolving, and companies worldwide are actively hiring Data Scientists, ML Engineers, AI Researchers, and Quant Analysts. This dataset provides 2,000+ synthetic but realistic job listings that capture important details like:
