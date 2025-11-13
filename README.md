@@ -19,4 +19,4 @@ The AI/ML industry is rapidly evolving, and companies worldwide are actively hir
 
 - Posting dates (2023–2025)
 
-### This dataset is designed to help researchers, students, and practitioners analyze trends in the AI job market and build real-world projects such as salary prediction, skill-demand analysis, and workforce analytics.
+This dataset is designed to help researchers, students, and practitioners analyze trends in the AI job market and build real-world projects such as salary prediction, skill-demand analysis, and workforce analytics.
